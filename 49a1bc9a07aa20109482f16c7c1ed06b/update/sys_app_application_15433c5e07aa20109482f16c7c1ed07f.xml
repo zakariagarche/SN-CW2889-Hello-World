@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>x_586197_cc_w2889.heelo user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-27 13:28:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>15433c5e07aa20109482f16c7c1ed07f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CC W2889 Hello World</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CC W2889 Hello World" source="x_586197_cc_w2889">49a1bc9a07aa20109482f16c7c1ed06b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CC W2889 Hello World">49a1bc9a07aa20109482f16c7c1ed06b</sys_scope>
+        <sys_update_name>sys_app_application_15433c5e07aa20109482f16c7c1ed07f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-27 13:28:04</sys_updated_on>
+        <title>CC W2889 Hello World</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
